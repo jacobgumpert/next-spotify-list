@@ -45,9 +45,9 @@ You will have to use your own Spotify API keys.
 Setup
 =================
 
-Create your own app using [Spotify Web API](https://developer.spotify.com/documentation/web-api/).
+Create your own app using `Spotify Web API <https://developer.spotify.com/documentation/web-api/>`_.
 
-Create `.env` file using `create-env-file.sh`, using the `SPOTIPY_CLIENT_ID` and `SPOTIPY_CLIENT_SECRET`.
+Create ``.env`` file using ``create-env-file.sh``, using the ``SPOTIPY_CLIENT_ID`` and ``SPOTIPY_CLIENT_SECRET``.
 
 
 
